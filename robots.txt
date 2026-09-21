@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hudeluo.github.io/yanmeiridasa/sitemap.xml
